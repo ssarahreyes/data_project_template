@@ -56,9 +56,7 @@ Given two numbers, compute addition, subtraction, multiplication or division.
 
 This project it's finished and you can use it to do operations with numbers. 
 
-<p align="center">
-  <img width="300" height="300" src="https://www.google.com/imgres?imgurl=http%3A%2F%2Fgeneracionapps.com%2Fwp-content%2Fuploads%2F2015%2F07%2FFoto-20-7-15-9-18-12-e1437381605846.png&imgrefurl=https%3A%2F%2Fgeneracionapps.com%2Faprende-sumar-y-restar-mas-menos%2F&tbnid=-4vcKxC9IfcX6M&vet=12ahUKEwjN0rm02dntAhWD34UKHWW0BfMQMygDegUIARDcAQ..i&docid=fAr79q_2Yv5L9M&w=719&h=532&q=sumar%20y%20restar&ved=2ahUKEwjN0rm02dntAhWD34UKHWW0BfMQMygDegUIARDcAQ">
-</p>
+![Image](https://www.google.com/imgres?imgurl=http%3A%2F%2Fgeneracionapps.com%2Fwp-content%2Fuploads%2F2015%2F07%2FFoto-20-7-15-9-18-12-e1437381605846.png&imgrefurl=https%3A%2F%2Fgeneracionapps.com%2Faprende-sumar-y-restar-mas-menos%2F&tbnid=-4vcKxC9IfcX6M&vet=12ahUKEwjN0rm02dntAhWD34UKHWW0BfMQMygDegUIARDcAQ..i&docid=fAr79q_2Yv5L9M&w=719&h=532&q=sumar%20y%20restar&ved=2ahUKEwjN0rm02dntAhWD34UKHWW0BfMQMygDegUIARDcAQ)
 
 ### :running: **One-liner**
 Having a one-liner that describes the pipeline/api/app is useful for getting an idea of what your code does in slightly greater detail. 
