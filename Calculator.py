@@ -50,7 +50,7 @@ def compute(operation, *args):
         return float(res)
     
     # Multiplication
-    if len(args) > 1 and operation == "mult":
+    if len(args) > 1 and operation == "mul":
         res = np.prod(args)
         print(res)
         return float(res)
@@ -58,5 +58,5 @@ def compute(operation, *args):
         
 compute("add", 5,2,3)
 compute("sub", 5,2)
-compute("Mul", 5,2,3)
+compute("mul", 5,2,3)
 compute("div", 5,2)
